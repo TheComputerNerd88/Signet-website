@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/TheComputerNerd88/Signet-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SigNet is an innovative, dynamic and adaptive company. We specialise in hardware and software solutions, as well as product manufacturing. We are a honest company, and we aim to be completely transparent. We have always strived to keep our customers happy, with our international expertise from Japan, Australia, China and Indonesia. Please, take a look at our product line, and see what interests you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our colours
+You may be wondering what the 'gyr' part of our website URL means. They stand for **g**reen, **y**ellow and **r** ed, which is also shown in our company logo at the top of the page.
 
-### Markdown
+Our colours represent a diverse culture and community here at SigNet, which also relates to the offices we have in many different countries. Our colours also represent us, SigNet, leading the way to a secure, wireless future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The colours also represent diversity in project sizes; that is, we can scale to fit any project, big or small.
 
-```markdown
-Syntax highlighted code block
+### Company Philosophy
+> Green is good, Yellow is ok, and Red is danger.
+> - Yuki Shimada
 
-# Header 1
-## Header 2
-### Header 3
+### Support and Contact
+Please don't hesitate to contact us, as we are always here to help, and we hope to get back to you as soon as possible.
 
-- Bulleted
-- List
+#### Australian Office
+Software Engineer: henry007a@gmail.com
+Website Designer: andrew007t@gmail.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheComputerNerd88/Signet-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Japanese Office
+Hardware Engineer: Andrew does not know Yuki's email
