@@ -3,10 +3,14 @@
 	<p>{{ site.description | default: site.github.project_tagline }}</p>
 	<br>
 	<span class="flags">
-		<a href="{{ "/pages/ja/index" | relative_url }}" title="日本語"> <img src="{{ "assets/images/flags/japan.png" | relative_url }}" alt="Japanese" class="flagPic"> </a>
-		<a href="{{ "/pages/en/index" | relative_url }}" title="English"> <img src="{{ "assets/images/flags/uk.png" | relative_url }}" alt="English" class="flagPic"> </a>
-		<a href="{{ "/pages/zh-Hant/index" | relative_url }}" title="繁體中文"> <img src="{{ "assets/images/flags/china.png" | relative_url }}" alt="Traditional Chinese" class="flagPic"> </a>
-		<a href="{{ "/pages/zh-Hans/index" | relative_url }}" title="简体中文"> <img src="{{ "assets/images/flags/hongkong.png" | relative_url }}" alt="Simplified Chinese" class="flagPic"> </a>
-		<a href="{{ "/pages/id/index" | relative_url }}" title="bahasa Indonesia"> <img src="{{ "assets/images/flags/indonesia.png" | relative_url }}" alt="Indonesian" class="flagPic"> </a>
+		{% for country in site.data.langNav %}
+			<a href="{{ country.link }}" title="{{ country.title }}"
+				{% if page.url == item.link %}
+					style="color: red;"
+				{% endif %}
+			>
+				<img src="{{ country.image }}" alt="{{ country.alt }}" class="flagPic">
+			</a>
+		{% endfor %}
 	</span>
 </header>
