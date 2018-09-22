@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 ## Welcome
 
 SigNet is an innovative, dynamic and adaptive company. We specialise in hardware and software solutions, as well as product manufacturing. We are a honest company, and we aim to be completely transparent. We have always strived to keep our customers happy, with our international expertise from Japan, Australia, China and Indonesia. Please take a look at our product line, and see what interests you.
