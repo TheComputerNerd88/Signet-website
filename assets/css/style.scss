@@ -20,18 +20,23 @@
 
 img.iconPic
 {
-  max-width: 5%;
-  max-height: 5%;
-  /* positioning code */
-  position:  relative;
-  top:  7px;
-  /* top:  123px controls how far down it is*/
+	max-width: 5%;
+	max-height: 5%;
+	/* positioning code */
+	position: relative;
+	top: 7px;
+	/* top: 123px controls how far down it is*/
 }
 
 img.flagPic
 {
 	max-width: 3%;
 	max-height: 3%;
+	text-align: right;
+}
+
+span.flags
+{
 	text-align: right;
 }
 
