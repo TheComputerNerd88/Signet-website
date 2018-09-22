@@ -16,10 +16,9 @@ The colours also represent diversity in project sizes; that is, we can scale to 
 ### Support and Contact
 Please don't hesitate to contact us, as we are always here to help, and we hope to get back to you as soon as possible.
 
-### Japanese Office
-Director Andrew does not know Yuki's email
+#### Japanese Office
+Director: Andrew does not know Yuki's email
 
-### Australian Office
-Software henry007a
-Web andrew007t
-a
+#### Australian Office
+Software: henry
+Web: andrew
