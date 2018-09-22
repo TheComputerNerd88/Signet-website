@@ -20,6 +20,5 @@ Please don't hesitate to contact us, as we are always here to help, and we hope 
 Director: Andrew does not know Yuki's email
 
 #### Australian Office
-Software: henry007a@gmail.com
-a
+Software: henry007a@gmail.com<br>
 Web: andrew007t@gmail.com
