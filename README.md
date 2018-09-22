@@ -19,6 +19,6 @@ Please don't hesitate to contact us, as we are always here to help, and we hope 
 #### Japanese Office
 Director: Andrew does not know Yuki's email
 
-#### Australian Office
+
 Software:
 Web: andrew
