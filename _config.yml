@@ -1,8 +1,11 @@
 theme: jekyll-theme-leap-day
-description: Signalling the Network forward, one step at a time. 
+description: Signalling the Network forward, one step at a time.
 show_downloads: false
 siteDesigner: Andrew Trang
 
 collections:
     people:
         output: true
+
+plugins:
+    - jekyll-redirect-from
