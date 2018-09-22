@@ -5,24 +5,33 @@
 
 .greenText
 {
-	color:green;
+	color: green;
 }
 
 .yellowText
 {
-	color:yellow;
+	color: yellow;
 }
 
 .redText
 {
-	color:red;
+	color: red;
 }
 
-img.iconPic {
-  max-width:5%;
-  max-height:5%;
+img.iconPic
+{
+  max-width: 5%;
+  max-height: 5%;
   /* positioning code */
-  position: relative;
-  top: 7px;
-  /* top: 123px controls how far down it is*/
+  position:  relative;
+  top:  7px;
+  /* top:  123px controls how far down it is*/
+}
+
+nav
+{
+	ul
+	{
+		font-size: 18px
+	}
 }
