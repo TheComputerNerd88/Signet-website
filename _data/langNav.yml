@@ -1,10 +1,10 @@
 -   link: '{{ "/pages/ja/index" | relative_url }}'
-    image: {{ "assets/images/flags/japan.png" | relative_url }}
+    image: '{{ "assets/images/flags/japan.png" | relative_url }}'
     alt: "Japanese"
     title: "日本語"
     
--   link: "{{ "/pages/en/index" | relative_url }}"
-    image: {{ "assets/images/flags/uk.png" | relative_url }}
+-   link: '{{ "/pages/en/index" | relative_url }}'
+    image: '{{ "assets/images/flags/uk.png" | relative_url }}'
     alt: "English"
     title: "English"
     
