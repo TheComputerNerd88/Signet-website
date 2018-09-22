@@ -5,7 +5,7 @@
 	<span class="flags">
 		{% for country in site.data.langNav %}
 			<a href="{{ country.link }}" title="{{ country.title }}"
-				{% if page.url == item.link %}
+				{% if page.url == country.link %}
 					style="color: red;"
 				{% endif %}
 			>
