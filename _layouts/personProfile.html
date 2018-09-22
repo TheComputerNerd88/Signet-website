@@ -1,6 +1,8 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+		{% include header.html % }
 	</head>
 
 	<body>
@@ -8,17 +10,14 @@
 	      <nav>
 	        <ul></ul>
 	      </nav>
+		  <section>
+			  
+		  </section>
 	      <section>
 	        {{ content }}
 
 	      </section>
-	      <footer>
-			  <p>&#169; SigNet 2018</p>
-	        {% if site.github.is_project_page %}
-	          <p>Designed by <a href="{{ site.github.owner_url }}">{{ site.siteDesigner }}</a>		<a href="assets/images/Andrew.jpg"> <img src="assets/images/Andrew.jpg" alt="A picture of Andrew" class="iconPic"> </a></p>
-	        {% endif %}
-	        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
-	      </footer>
+	      {% include footer.html % }
 	    </div>
 	</body>
 </html>
