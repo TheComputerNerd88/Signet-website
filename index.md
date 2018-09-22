@@ -1,3 +1,6 @@
+---
+layout: default
+---
 上記のヘッダーから言語を選択してください。
 
 Please select your language from the header above.
