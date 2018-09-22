@@ -1,6 +1,6 @@
 ---
 layout: redirection
 sitemap: false
-permalink: /
+permalink: /Signet-website
 redirect_to: /pages/index/english
 ---
