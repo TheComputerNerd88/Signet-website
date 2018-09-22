@@ -4,12 +4,12 @@
 	<br>
 	<span class="flags">
 		{% for country in site.data.langNav %}
-			<a href="{{ country.link }}" title="{{ country.title }}"
-				{% if page.url == country.link %}
-					style="color: red;"
-				{% endif %}
-			>
-				<img src="{{ country.image }}" alt="{{ country.alt }}" class="flagPic">
+			<a href="{{ country.link }}" title="{{ country.title }}">
+				<img src="{{ country.image }}" alt="{{ country.alt }}" class="flagPic"
+					{% if page.url == country.link %}
+						style="border: 2px solid #0000ff; border-radius: 5px; padding: 3px;""
+					{% endif %}
+				>
 			</a>
 		{% endfor %}
 	</span>
