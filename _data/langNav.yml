@@ -1,4 +1,24 @@
-- link: "/pages/ja/index"
-  image: "/Signet-website/assets/images/flags/japan.png"
-  alt: "Japanese"
-  title: "日本語"
+-   link: "/pages/ja/index"
+    image: "/Signet-website/assets/images/flags/japan.png"
+    alt: "Japanese"
+    title: "日本語"
+
+-   link: "/pages/en/index"
+    image: "/Signet-website/assets/images/flags/uk.png"
+    alt: "English"
+    title: "English"
+
+-   link: "/pages/zh-Hant/index"
+    image: "/Signet-website/assets/images/flags/china.png"
+    alt: "Traditional Chinese"
+    title: "繁體中文"
+
+-   link: "/pages/zh-Hans/index"
+    image: "/Signet-website/assets/images/flags/hongkong.png"
+    alt: "Simplified Chinese"
+    title: "简体中文"
+
+-   link: "/pages/id/index" | relative_url
+    image: "/Signet-website/assets/images/flags/indonesia.png"
+    alt: "Indonesian"
+    title: "bahasa Indonesia"
