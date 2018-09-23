@@ -9,8 +9,6 @@ function addNavID()
 	}
 }
 
-for (var i = 0; i < 10; i++)
-{
-	addNavID();
-}
-addNavID();
+
+var loopingNav = setInterval(addNavID, 100);
+setTimeout(clearInterval(loopingNav), 3000);
