@@ -1,4 +1,4 @@
-- link: "{{ '/pages/ja/index' | relative_url }}"
+- link: "/pages/ja/index"
   image: '{{ "assets/images/flags/japan.png" | relative_url }}'
   alt: "Japanese"
   title: "日本語"
