@@ -6,3 +6,5 @@ function addNavID()
 
 	sectionElement.getElementsByTagName("h2")[0].id = "welcome";
 }
+
+window.onload = "addNavID"
