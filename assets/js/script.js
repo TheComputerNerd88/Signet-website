@@ -7,4 +7,8 @@ function addNavID()
 	sectionElement.getElementsByTagName("h2")[0].id = "welcome";
 }
 
+for (var i = 0; i < 10; i++)
+{
+	addNavID();
+}
 addNavID();
