@@ -11,4 +11,4 @@ function addNavID()
 
 
 var loopingNav = setInterval(addNavID, 100);
-setTimeout(clearInterval(loopingNav), 205);
+setTimeout(clearInterval(loopingNav), 1500);
