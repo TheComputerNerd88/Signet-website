@@ -23,5 +23,5 @@ SigNetは革新的でダイナミックかつ適応性の高い企業です。 �
 監督：アンドリューはユキのメールを知らない
 
 #### オーストラリアオフィス
-ソフトウェア: Henry Trang<br>
-Web：        Andrew Trang
+ソフトウェア:   Henry Trang<br>
+ウェブデザイン: Andrew Trang

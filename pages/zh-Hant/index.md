@@ -23,5 +23,5 @@ SigNet是一家創新，充滿活力和適應性的公司。 我們專注於硬�
 導演：安德魯不知道Yuki的電子郵件
 
 #### 澳洲辦公室
-軟件: Henry Trang<br>
-網址: Andrew Trang
+軟件:     Henry Trang<br>
+網頁設計: Andrew Trang
