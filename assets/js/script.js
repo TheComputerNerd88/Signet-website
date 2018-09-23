@@ -14,3 +14,4 @@ function addNavID()
 //setTimeout(clearInterval(loopingNav), 3000);
 
 addNavID();
+addNavID();
