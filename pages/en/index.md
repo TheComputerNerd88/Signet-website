@@ -24,5 +24,5 @@ Please don't hesitate to contact us, as we are always here to help, and we hope 
 Director: Andrew does not know Yuki's email
 
 #### Australian Office
-Software: [Henry Trang](/people/Henry Trang.md)<br>
-Web:      [Andrew Trang](/people/Andrew Trang.md)
+Software:   henry007a@gmail.com<br>
+Web Design: andrew007t@gmail.com
