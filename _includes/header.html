@@ -14,4 +14,8 @@
 		{% endfor %}
 	</span>
 	<p>6</p>
+	<p>{{ page.url }}</p>
+	{% for country in site.data.langNav %}
+		<p>{{ country.link }}</p>
+	{% endfor %}
 </header>
