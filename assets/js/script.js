@@ -12,6 +12,7 @@ var sectionHeight = function() {
 
 $(window).resize(sectionHeight);
 
+$(function() {
   $("div ul li").on("click", "a", function(event) {
     var position = $($(this).attr("href")).offset().top - 190;
     $("html, body").animate({scrollTop: position}, 400);
@@ -23,3 +24,4 @@ $(window).resize(sectionHeight);
   sectionHeight();
 
   $('img').on('load', sectionHeight);
+});
