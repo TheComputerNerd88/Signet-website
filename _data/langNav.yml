@@ -1,12 +1,12 @@
--   link: "/Signet-website/pages/ja/index"
-    image: "/Signet-website/assets/images/flags/japan.png"
-    alt: "Japanese"
-    title: "日本語"
-
 -   link: "/Signet-website/pages/en/index"
     image: "/Signet-website/assets/images/flags/uk.png"
     alt: "English"
     title: "English"
+
+-   link: "/Signet-website/pages/ja/index"
+    image: "/Signet-website/assets/images/flags/japan.png"
+    alt: "Japanese"
+    title: "日本語"
 
 -   link: "/Signet-website/pages/zh-Hant/index"
     image: "/Signet-website/assets/images/flags/china.png"
