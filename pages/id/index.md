@@ -23,5 +23,5 @@ Jangan ragu untuk menghubungi kami, karena kami selalu siap membantu, dan kami b
 Direktur: Andrew tidak tahu email Yuki
 
 #### Kantor Australia
-Perangkat lunak: henry007a@gmail.com
+Perangkat lunak: henry007a@gmail.com<br>
 Desain Web: &emsp;&nbsp;andrew007t@gmail.com
