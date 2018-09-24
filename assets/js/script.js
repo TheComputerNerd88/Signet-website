@@ -1,14 +1,26 @@
-function addNavID()
-{
-	if (document.body)
-	{
-		var wrapperElement = document.body.getElementsByClassName("wrapper")[0];
-		var sectionElement = wrapperElement.getElementsByTagName("section")[0];
+var sectionHeight = function() {
+  var total    = $(window).height(),
+      $section = $('section').css('height','auto');
 
-		sectionElement.getElementsByTagName("h2")[0].id = "welcome";
-	}
+  if ($section.outerHeight(true) < total) {
+    var margin = $section.outerHeight(true) - $section.height();
+    $section.height(total - margin - 20);
+  } else {
+    $section.css('height','auto');
+  }
 }
 
+$(window).resize(sectionHeight);
 
-var loopingNav = setInterval(addNavID, 100);
-setTimeout(clearInterval(loopingNav), 1500);
+  $("nav ul li").on("click", "a", function(event) {
+    var position = $($(this).attr("href")).offset().top - 190;
+    $("html, body").animate({scrollTop: position}, 400);
+    $("nav ul li a").parent().removeClass("active");
+    $(this).parent().addClass("active");
+    event.preventDefault();
+  });
+
+  sectionHeight();
+
+  $('img').on('load', sectionHeight);
+});
