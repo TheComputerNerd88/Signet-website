@@ -22,3 +22,8 @@
     image: "/Signet-website/assets/images/flags/indonesia.png"
     alt: "Indonesian"
     title: "bahasa Indonesia"
+
+-   link: "/Signet-website/pages/fr/index"
+    image: "/Signet-website/assets/images/flags/france.png"
+    alt: "French"
+    title: "Français"
