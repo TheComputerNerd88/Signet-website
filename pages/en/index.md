@@ -1,6 +1,7 @@
 ---
 layout: index
 redirect_from: "/"
+navigation: true
 ---
 
 ## Welcome

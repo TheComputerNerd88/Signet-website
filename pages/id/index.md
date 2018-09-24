@@ -24,4 +24,4 @@ Direktur: Andrew tidak tahu email Yuki
 
 #### Kantor Australia
 Perangkat lunak: henry007a@gmail.com
-Desain Web: andrew007t@gmail.com
+Desain Web:      andrew007t@gmail.com
