@@ -8,15 +8,15 @@
     alt: "Japanese"
     title: "日本語"
 
--   link: "/Signet-website/pages/zh-Hant/index"
-    image: "/Signet-website/assets/images/flags/china.png"
-    alt: "Traditional Chinese"
-    title: "繁體中文"
-
 -   link: "/Signet-website/pages/zh-Hans/index"
-    image: "/Signet-website/assets/images/flags/hongkong.png"
+    image: "/Signet-website/assets/images/flags/china.png"
     alt: "Simplified Chinese"
     title: "简体中文"
+
+-   link: "/Signet-website/pages/zh-Hant/index"
+    image: "/Signet-website/assets/images/flags/hongkong.png"
+    alt: "Traditional Chinese"
+    title: "繁體中文"
 
 -   link: "/Signet-website/pages/id/index"
     image: "/Signet-website/assets/images/flags/indonesia.png"
