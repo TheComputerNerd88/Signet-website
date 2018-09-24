@@ -23,4 +23,3 @@ $(window).resize(sectionHeight);
   sectionHeight();
 
   $('img').on('load', sectionHeight);
-});
