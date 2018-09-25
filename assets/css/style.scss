@@ -34,11 +34,6 @@ img.flagPic
 	max-height: 3%;
 }
 
-span.flags
-{
-	text-align: right;
-}
-
 nav
 {
 	ul
@@ -47,6 +42,7 @@ nav
 	}
 }
 
+// *** inherit the nav bar properties ***
 div.nav {
   width: 230px;
   position: fixed;
@@ -93,19 +89,9 @@ div.nav {
     }
   }
 }
+// *** inherit the nav bar properties ***
 
-@media print, screen and (max-width: 1060px)
+header
 {
-	nav
-	{
-		display: none;
-	}
-}
-
-@media print, screen and (max-height: 480px)
-{
-	nav
-	{
-		display: none;
-	}
+	padding-bottom: 20px;
 }
