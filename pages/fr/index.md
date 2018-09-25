@@ -13,7 +13,7 @@ Les couleurs représentent également la diversité des tailles de projet; c'est
 
 ### Philosophie d'entreprise
 > Le vert est bon, le jaune est ok et le rouge est le danger.
-> - Yuki Shimada
+> - Nobuyuki Shimada
 
 ### Support et contact
 N'hésitez pas à nous contacter, car nous sommes toujours là pour vous aider et nous espérons pouvoir vous répondre dans les plus brefs délais.

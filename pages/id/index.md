@@ -14,7 +14,7 @@ Warna juga mewakili keragaman dalam ukuran proyek; yaitu, kita dapat menyesuaika
 
 ### Filosofi Perusahaan
 > Hijau itu bagus, Kuning tidak apa-apa, dan Merah adalah bahaya.
-> - Yuki Shimada
+> - Nobuyuki Shimada
 
 ### Dukungan dan Kontak
 Jangan ragu untuk menghubungi kami, karena kami selalu siap membantu, dan kami berharap dapat menghubungi Anda sesegera mungkin.

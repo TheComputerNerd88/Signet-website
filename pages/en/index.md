@@ -15,7 +15,7 @@ The colours also represent diversity in project sizes; that is, we can scale to 
 
 ### Company Philosophy
 > Green is good, Yellow is ok, and Red is danger.
-> - Yuki Shimada
+> - Nobuyuki Shimada
 
 ### Support and Contact
 Please don't hesitate to contact us, as we are always here to help, and we hope to get back to you as soon as possible.
