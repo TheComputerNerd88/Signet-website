@@ -3,9 +3,19 @@
 
 @import "{{ site.theme }}";
 
-.greenText
+.blueText
 {
-	color: green;
+	background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iZ3JhZGllbnQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMTAwQTU0OyIgLz48c3RvcCBvZmZzZXQ9Ijk5JSIgc3R5bGU9InN0b3AtY29sb3I6Izk1Q0JGMTsiIC8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgZmlsbD0idXJsKCNncmFkaWVudCkiIGhlaWdodD0iMTAwJSIgd2lkdGg9IjEwMCUiIC8+PC9zdmc+);
+	background-image: -webkit-gradient(linear, left top, 0deg, color-stop(0%, #100A54), color-stop(99%, #95CBF1));
+	background-image: -moz-linear-gradient(0deg,#100A54 0%,#95CBF1 99%);
+	background-image: -webkit-linear-gradient(0deg,#100A54 0%,#95CBF1 99%);
+	background-image: -o-linear-gradient(0deg,#100A54 0%,#95CBF1 99%);
+	background-image: -ms-linear-gradient(0deg,#100A54 0%,#95CBF1 99%);
+	background-image: linear-gradient(0deg,#100A54 0%,#95CBF1 99%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	position:relative;
+	display:inline-block; /*required*/
 }
 
 .yellowText
