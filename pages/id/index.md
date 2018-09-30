@@ -20,8 +20,8 @@ Warna juga mewakili keragaman dalam ukuran proyek; yaitu, kita dapat menyesuaika
 Jangan ragu untuk menghubungi kami, karena kami selalu siap membantu, dan kami berharap dapat menghubungi Anda sesegera mungkin.
 
 #### Kantor Jepang
-Direktur: Andrew tidak tahu email Yuki
+Direktur: yuki@signet-gyr.com
 
 #### Kantor Australia
-Perangkat lunak: henry007a@gmail.com<br>
-Desain Web: &emsp;&nbsp;andrew007t@gmail.com
+Perangkat lunak: henry@signet-gyr.com<br>
+Desain Web: &emsp;&nbsp;andrew@signet-gyr.com

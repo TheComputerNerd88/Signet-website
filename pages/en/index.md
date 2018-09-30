@@ -21,8 +21,8 @@ The colours also represent diversity in project sizes; that is, we can scale to 
 Please don't hesitate to contact us, as we are always here to help, and we hope to get back to you as soon as possible.
 
 #### Japanese Office
-Director: Andrew does not know Yuki's email
+Director: yuki@signet-gyr.com
 
 #### Australian Office
-Software:&emsp;&emsp; henry007a@gmail.com<br>
-Web Design: andrew007t@gmail.com
+Software:&emsp;&emsp; henry@signet-gyr.com<br>
+Web Design: andrew@signet-gyr.com

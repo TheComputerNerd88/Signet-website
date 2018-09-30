@@ -19,8 +19,8 @@ Les couleurs représentent également la diversité des tailles de projet; c'est
 N'hésitez pas à nous contacter, car nous sommes toujours là pour vous aider et nous espérons pouvoir vous répondre dans les plus brefs délais.
 
 #### Bureau japonais
-Réalisateur: Andrew ne sait pas l'email de Yuki
+Réalisateur: yuki@signet-gyr.com
 
 #### Bureau australien
-Logiciel: &emsp;&emsp;&emsp;&emsp;&emsp;henry007a@gmail.com<br>
-Conception Web: andrew007t@gmail.com
+Logiciel: &emsp;&emsp;&emsp;&emsp;&emsp;henry@signet-gyr.com<br>
+Conception Web: andrew@signet-gyr.com
