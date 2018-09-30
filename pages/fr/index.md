@@ -12,8 +12,7 @@ Nos couleurs représentent une culture et une communauté diversifiées chez Sig
 Les couleurs représentent également la diversité des tailles de projet; c'est-à-dire que nous pouvons nous adapter à tout projet, grand ou petit.
 
 ### Philosophie d'entreprise
-> Le vert est bon, le jaune est ok et le rouge est le danger.
-> - Nobuyuki Shimada
+Nous faisons de notre mieux pour garder nos clients heureux.
 
 ### Support et contact
 N'hésitez pas à nous contacter, car nous sommes toujours là pour vous aider et nous espérons pouvoir vous répondre dans les plus brefs délais.

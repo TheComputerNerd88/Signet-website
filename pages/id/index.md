@@ -13,8 +13,7 @@ Warna kami mewakili beragam budaya dan komunitas di sini di SigNet, yang juga te
 Warna juga mewakili keragaman dalam ukuran proyek; yaitu, kita dapat menyesuaikan skala untuk menyesuaikan proyek apa pun, besar atau kecil.
 
 ### Filosofi Perusahaan
-> Hijau itu bagus, Kuning tidak apa-apa, dan Merah adalah bahaya.
-> - Nobuyuki Shimada
+Kami melakukan yang terbaik untuk menjaga klien kami tetap bahagia.
 
 ### Dukungan dan Kontak
 Jangan ragu untuk menghubungi kami, karena kami selalu siap membantu, dan kami berharap dapat menghubungi Anda sesegera mungkin.
