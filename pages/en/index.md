@@ -20,7 +20,7 @@ We do our best to keep our clients happy.
 Please don't hesitate to contact us, as we are always here to help, and we hope to get back to you as soon as possible.
 
 #### Japanese Office
-Director: yuki@signet-gyr.com
+Director: Nobuyuki Shimada
 
 #### Australian Office
 Software:&emsp;&emsp; henry@signet-gyr.com<br>
