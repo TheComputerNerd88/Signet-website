@@ -19,7 +19,7 @@ Kami melakukan yang terbaik untuk menjaga klien kami tetap bahagia.
 Jangan ragu untuk menghubungi kami, karena kami selalu siap membantu, dan kami berharap dapat menghubungi Anda sesegera mungkin.
 
 #### Kantor Jepang
-Direktur: Nobuyuki Shimada
+Direktur: Mr Shimada
 
 #### Kantor Australia
 Perangkat lunak: henry@signet-gyr.com<br>

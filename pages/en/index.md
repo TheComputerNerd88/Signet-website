@@ -14,13 +14,13 @@ Our colours represent a diverse culture and community here at SigNet, which also
 The colours also represent diversity in project sizes; that is, we can scale to fit any project, big or small.
 
 ### Company Philosophy
-We do our best to keep our clients happy. 
+We do our best to keep our clients happy.  
 
 ### Support and Contact
 Please don't hesitate to contact us, as we are always here to help, and we hope to get back to you as soon as possible.
 
 #### Japanese Office
-Director: Nobuyuki Shimada
+Director: Mr Shimada
 
 #### Australian Office
 Software:&emsp;&emsp; henry@signet-gyr.com<br>

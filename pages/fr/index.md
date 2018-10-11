@@ -18,7 +18,7 @@ Nous faisons de notre mieux pour garder nos clients heureux.
 N'hésitez pas à nous contacter, car nous sommes toujours là pour vous aider et nous espérons pouvoir vous répondre dans les plus brefs délais.
 
 #### Bureau japonais
-Réalisateur: Nobuyuki Shimada
+Réalisateur: Mr Shimada
 
 #### Bureau australien
 Logiciel: &emsp;&emsp;&emsp;&emsp;&emsp;henry@signet-gyr.com<br>
