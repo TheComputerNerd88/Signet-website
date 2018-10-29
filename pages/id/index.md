@@ -6,7 +6,7 @@ layout: index
 SigNet adalah perusahaan yang inovatif, dinamis dan adaptif. Kami mengkhususkan diri dalam solusi perangkat keras dan perangkat lunak, serta manufaktur produk. Kami adalah perusahaan yang jujur, dan kami bertujuan untuk sepenuhnya transparan. Kami selalu berusaha untuk membuat pelanggan kami senang, dengan keahlian internasional kami dari Jepang, Australia, Cina dan Indonesia. Silakan lihat di lini produk kami, dan lihat apa yang menarik bagi Anda.
 
 ### Warna kami
-Anda mungkin bertanya-tanya apa arti bagian 'gyr' dari URL situs web kami. Mereka berdiri untuk <span style="color:green">g</span>reen, <span style="color:#e5e500">y</span>ellow dan <span style="color:red">r</span>ed, yang juga ditampilkan dalam logo perusahaan kami di bagian atas halaman.
+Anda mungkin bertanya-tanya apa arti bagian 'gyr' dari URL situs web kami. Mereka berdiri untuk hijau, kuning dan merah(<span style="color:green">g</span>reen, <span style="color:#e5e500">y</span>ellow dan <span style="color:red">r</span>ed), yang juga ditampilkan dalam logo perusahaan kami di bagian atas halaman.
 
 Warna kami mewakili beragam budaya dan komunitas di sini di SigNet, yang juga terkait dengan kantor yang kami miliki di banyak negara berbeda. Warna kami juga mewakili kami, SigNet, memimpin jalan menuju masa depan nirkabel yang aman.
 
